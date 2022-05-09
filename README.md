@@ -1,6 +1,8 @@
 # Movie-app
 state, hooks, data fetching
 
+# Live Demo: (https://quiet-treacle-1ac4b3.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
